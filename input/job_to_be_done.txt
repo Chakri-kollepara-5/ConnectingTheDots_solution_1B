@@ -1,0 +1,22 @@
+Goal: Implement a robust machine learning pipeline for real-time fraud detection in financial transactions.
+
+Specific Tasks:
+- Research state-of-the-art fraud detection algorithms
+- Understand data preprocessing requirements for transaction data
+- Learn about real-time model serving architectures
+- Identify performance optimization techniques
+- Study feature engineering approaches for financial data
+- Understand model monitoring and drift detection
+
+Success Criteria:
+- Build a system that can process 10,000+ transactions per second
+- Achieve detection accuracy above 95%
+- Minimize false positive rates below 2%
+- Ensure system can handle concept drift
+- Meet regulatory compliance requirements
+
+Context: Our current rule-based system is producing too many false positives and missing sophisticated fraud patterns. We need to upgrade to a machine learning approach that can adapt to new fraud techniques while maintaining high performance and explainability for regulatory requirements.
+
+Urgency: High priority - need to implement within 3 months due to rising fraud losses.
+
+Keywords: fraud detection, real-time processing, machine learning, financial transactions, performance optimization, model serving, feature engineering, anomaly detection, classification algorithms, model monitoring

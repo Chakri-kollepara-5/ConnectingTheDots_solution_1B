@@ -1,0 +1,40 @@
+{
+  "name": "Dr. Sarah Chen",
+  "role": "Senior Data Scientist",
+  "age": 34,
+  "company": "TechCorp",
+  "experience_level": "Senior",
+  "attributes": {
+    "technical_background": "Machine Learning, Statistics, Python",
+    "industry": "Technology",
+    "education": "PhD in Computer Science"
+  },
+  "needs": [
+    "Detailed technical documentation",
+    "Best practices and methodologies",
+    "Implementation examples",
+    "Performance benchmarks",
+    "Scalability considerations"
+  ],
+  "interests": [
+    "Machine learning algorithms",
+    "Data pipeline optimization",
+    "Model deployment",
+    "Statistical analysis",
+    "Open source tools"
+  ],
+  "communication_style": "Prefers technical depth over high-level overviews",
+  "tone": "Professional, analytical, detail-oriented",
+  "keywords": [
+    "machine learning",
+    "data science",
+    "algorithms",
+    "python",
+    "statistics",
+    "modeling",
+    "analysis",
+    "optimization",
+    "performance",
+    "scalability"
+  ]
+}
