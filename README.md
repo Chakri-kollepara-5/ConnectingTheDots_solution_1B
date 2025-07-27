@@ -879,23 +879,10 @@ Features in development:
 
 ## 📞 Support & Community
 
-### 🤝 Professional Support
-- 📧 **Technical Support:** support@connecting-the-dots.ai
-- 💬 **Developer Community:** [Join our Discord](https://discord.gg/connecting-the-dots)
-- 📚 **Documentation Hub:** [docs.connecting-the-dots.ai](http://docs.connecting-the-dots.ai)
-- 🐛 **Issue Tracking:** [GitHub Issues](https://github.com/Chakri-kollepara-5/ConnectingTheDots_solution_1B/issues)
-- 🎓 **Training & Workshops:** training@connecting-the-dots.ai
-
 ### 👥 Team Contact Information
 - **Danda Arun Kumar** - Lead Developer & Architect: dandaarunkumar777@gmail.com
 - **Panchireddi Praveen** - ML Engineering & AI Intelligence: 21072cm042@gmail.com 
 - **Kollepara Venkata Sri Chakravarthi** - Backend Engineering & DevOps: vschakravarthi7@gmail.com
-
-### 📈 Community Engagement
-- 🌟 **GitHub Stars:** [Star our repository](https://github.com/Chakri-kollepara-5/ConnectingTheDots_solution_1B)
-- 🔄 **Contributions:** Open source contributions welcome via pull requests
-- 📢 **Updates & Announcements:** Follow [@ConnectingDots](https://twitter.com/ConnectingDots)
-- 📝 **Blog & Insights:** [Medium Publication](https://medium.com/@connecting-the-dots)
 
 ---
 
