@@ -4,7 +4,7 @@
 
 ![Adobe Hackathon Banner](https://img.shields.io/badge/🏆_Adobe_India_Hackathon_2025-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
 
-<h1>🎭 Persona-Driven Document Intelligence System</h1>
+<h1>🎭 Persona-Driven Document Intelligence System (1B)</h1>
 <h3>Dynamic Persona Analysis & Explainable Document Intelligence for Enterprise Insights</h3>
 
 ![Build Passing](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge)
@@ -906,20 +906,13 @@ Features in development:
 <img src="https://img.shields.io/badge/Made%20with-❤️_&_🧠-red?style=for-the-badge" alt="Made with love and intelligence">
 <img src="https://img.shields.io/badge/Status-Production_Ready-green?style=for-the-badge" alt="Production Ready">
 <img src="https://img.shields.io/badge/Hackathon-Adobe%20India%202025-FF0000?style=for-the-badge" alt="Adobe Hackathon">
-<img src="https://img.shields.io/badge/Round-1B_Winner-gold?style=for-the-badge" alt="Round 1B">
+<img src="https://img.shields.io/badge/Round-1B-gold?style=for-the-badge" alt="Round 1B">
 
 ### 🏆 "Transforming Document Analysis Through Persona-Driven Intelligence"
 
 **🎭 Where Human Context Meets AI Precision**
 
 ---
-
-### 🌟 Recognition & Awards
-- 🏆 **Adobe India Hackathon 2025 - Round 1B Excellence Award**
-- 🥇 **Best Innovation in Persona-Driven AI** 
-- ⚡ **Performance Excellence Recognition** (5x faster than industry standard)
-- 🧠 **Outstanding AI Intelligence Implementation**
-- 🔒 **Security & Privacy Leadership Award**
 
 ---
 
@@ -951,17 +944,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 - **Beta Testing Community** - For invaluable feedback during development phase
 - **Academic Research Community** - For foundational research in NLP and semantic analysis
 
-### 📜 Citation
-If you use this work in academic research or commercial applications, please cite:
-```bibtex
-@software{connecting_the_dots_2025,
-  title={Persona-Driven Document Intelligence System},
-  author={Kumar, Danda Arun and Praveen, Panchireddi and Chakravarthi, K.V.S.},
-  year={2025},
-  publisher={Adobe India Hackathon},
-  url={https://github.com/Chakri-kollepara-5/ConnectingTheDots_solution_1B}
-}
-```
+
 
 ---
 
